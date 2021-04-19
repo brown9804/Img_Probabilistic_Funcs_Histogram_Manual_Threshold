@@ -1,4 +1,4 @@
-# Imgage Probabilistic Functions,
+# Image Probabilistic Functions,
 # Histogram, Manual Threshold
 
 ----------
